@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java Backend Development**
 
-- 👨‍💻 All of my projects are available at [################](################)[################](################)
+- 👨‍💻 All of my projects are available at [AI-Trip-Planner](https://ai-trip-planner-ten-navy.vercel.app), [E-commerce](https://ecom-frontend-eight-theta.vercel.app)
 
 - 📫 How to reach me **aakashsingh0362@gmail.com**
 
